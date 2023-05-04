@@ -1,6 +1,9 @@
 ### **<div align="center">I'm Crecker, a full-time Student.</div>**  
   
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
+</div>  
+  
 <br/>  
 
 
