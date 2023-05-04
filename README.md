@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" height="" width="" />
-</div>  
-  
-
 ### **<div align="center">I'm Crecker, a full-time Student.</div>**  
   
 
@@ -74,30 +69,9 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-
-
-### Blogs  
-**M8 why should I write post.... man i make code not blogs.**  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-
-### Visitors  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Creeeeger&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
 
 <br />
 
