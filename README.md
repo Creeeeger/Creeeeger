@@ -2,6 +2,8 @@
   
 <div align="center">
   <img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
+                <p style="text-align: center; background: -webkit-linear-gradient(left, #ffbc00, #ff0058); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 60px; font-weight: bold;">The Game</p>
+
 </div>  
   
 <br/>  
@@ -110,3 +112,6 @@
 ----
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
+
