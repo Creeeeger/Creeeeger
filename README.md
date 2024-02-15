@@ -11,9 +11,8 @@ I like creating software😁
 
 - [ ] Fitness3D
 - [ ] SnapRemover
-- [ ] Elearning
+- [x] Elearning
 - [ ] PS4 dec
-  
 <br/>  
 
 
