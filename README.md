@@ -1,9 +1,19 @@
 
 ##  Intro 🗒️  
-Hello I'm Crecker, idk what I'm actually🤔
-But I like creating software😁  
+Hello I'm Crecker
+
+I like creating software😁  
   
 
+<br/>  
+
+## I'm working on:
+
+- [] Fitness3D
+- [] SnapRemover
+- [] Elearning
+- [] PS4 dec
+  
 <br/>  
 
 
