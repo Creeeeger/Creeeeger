@@ -9,10 +9,10 @@ I like creating software😁
 
 ## I'm working on:
 
-- [] Fitness3D
-- [] SnapRemover
-- [] Elearning
-- [] PS4 dec
+- [ ] Fitness3D
+- [ ] SnapRemover
+- [ ] Elearning
+- [ ] PS4 dec
   
 <br/>  
 
