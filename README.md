@@ -3,7 +3,6 @@
 Hello I'm Crecker
 
 I like creating software😁  
-  
 
 <br/>  
 
@@ -12,7 +11,7 @@ I like creating software😁
 - [ ] Fitness3D
 - [ ] SnapRemover
 - [x] Elearning
-- [ ] PS4 dec
+- [x] PS4 dec
 <br/>  
 
 
