@@ -8,8 +8,8 @@ I like creating software😁
 
 ## I'm working on:
 
+- [ ] Tensorflow Project
 - [ ] Fitness3D
-- [ ] SnapRemover
 - [x] Elearning
 - [x] PS4 dec
 <br/>  
