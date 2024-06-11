@@ -71,19 +71,6 @@ I like creating software😁
 
 <br/>  
 
-
-## Connect with me ✉️  
-
-
-### Telegram: https://t.me/Creckerino  
-<a href="https://github.com/Creeeeger" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>  
-
-
 ## Visitors 👀  
 ![Profile views counter](https://komarev.com/ghpvc/?username=Creeeeger&&style=flat-square)  
   
