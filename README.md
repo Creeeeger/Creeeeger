@@ -3,13 +3,12 @@
 Hello I'm Crecker
 
 I like creating software😁  
-
 <br/>  
 
 ## I'm working on:
 
-- [ ] Tensorflow Project
 - [ ] Fitness3D
+- [x] Tensorflow Project
 - [x] Elearning
 - [x] PS4 dec
 <br/>  
@@ -17,8 +16,6 @@ I like creating software😁
 
 ## My Skills👨🏼‍💻  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Good  
 <div align="center">  
@@ -30,8 +27,6 @@ I like creating software😁
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Okay  
 <div align="center">  
@@ -80,7 +75,10 @@ I like creating software😁
 
 ## Blogposts 📝  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+OHHH man i dont have blog posts
+
+
+do i look like an author ????
 <!-- BLOG-POST-LIST:END -->
 <br />
 
