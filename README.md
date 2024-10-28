@@ -6,11 +6,12 @@ I like creating software😁
 <br/>  
 
 ## I'm working on:
+Well forget this fitness 3D project  ( ͡° ͜ʖ ͡°)
 
-- [ ] Fitness3D
-- [x] Tensorflow Project
-- [x] Elearning
-- [x] PS4 dec
+~ Swift is not my thing ~
+
+Anyways check this out
+- [ ] HypeTrain
 <br/>  
 
 
@@ -44,8 +45,6 @@ I like creating software😁
 ### Learning  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
 </div>
 
 </td></tr></table>  
@@ -79,8 +78,9 @@ OHHH man i dont have blog posts
 
 
 do i look like an author ????
+
+Well I wish I had the time to but nope I dont 
 <!-- BLOG-POST-LIST:END -->
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
