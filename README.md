@@ -6,9 +6,6 @@
 
 ## 🔨 Currently Working On
 
-**🚅 HypeTrain** - *next-gen AI Stock platform private🛡️ whuhuhu closed source* [COMING SOON]  
-[![Project Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/Creeeeger/HypeTrain)  
-
 ~~🏋️‍♂️ Fitness 3D Project~~ *(temporarily shelved)* 😅
 
 ---
