@@ -49,4 +49,4 @@
 
 ---
 
-*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* - not me
+*"The moment you think you’re done, you’ll either find more bugs or your boss won’t be happy."*
