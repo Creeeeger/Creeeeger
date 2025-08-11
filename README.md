@@ -6,7 +6,7 @@
 
 ## HypeTrain: Market Anomaly Detection & Automation
 
-[![HypeTrainPublic](https://img.shields.io/badge/GitHub-View%20Project-blue?logo=github&style=for-the-badge)](https://github.com/Creeeeger/HypeTrainPublic)
+[![HypeTrainPublic](https://img.shields.io/badge/GitHub-View%20Project-blue?logo=github&style=for-the-badge)](https://github.com/Creeeeger/HypeTrain)
 
 > **HypeTrain** is a finished platform for full automated market anomaly detection, focusing on high-volatility stocks.  
 > Built with advanced signal processing and real-time automation as well as a lot of other cool stuff
