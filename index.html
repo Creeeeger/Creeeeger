@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Crecker - Glassmorphism Landing Page</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="bg-gradient"></div>
+  <header class="navbar">
+    <div class="logo">Crecker<span>.</span></div>
+    <nav class="nav-links">
+      <a href="#projects">Projekte</a>
+      <a href="#skills">Skills</a>
+      <a href="#contact" class="btn-pill">Kontakt</a>
+    </nav>
+    <button class="burger" aria-label="Navigation öffnen">
+      <span></span><span></span><span></span>
+    </button>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-card glass">
+        <div class="badge">🚀 Software Enthusiast</div>
+        <h1>Ich baue digitale Experiences,<br />die auffallen.</h1>
+        <p>
+          Automatisierung, High-Performance-Systeme und moderne Interfaces –
+          ich kombiniere Cutting-Edge-Tech mit fühlbarem Design.
+        </p>
+        <div class="hero-actions">
+          <a class="btn-primary" href="#projects">Showcase ansehen</a>
+          <a class="btn-ghost" href="#contact">Let’s talk</a>
+        </div>
+        <div class="stats">
+          <div>
+            <span class="value">10<span>+</span></span>
+            <span class="label">Live Projekte</span>
+          </div>
+          <div>
+            <span class="value">5<span>y</span></span>
+            <span class="label">Experience</span>
+          </div>
+          <div>
+            <span class="value">∞</span>
+            <span class="label">Neugier</span>
+          </div>
+        </div>
+      </div>
+      <div class="hero-preview glass">
+        <div class="preview-header">
+          <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+          <span class="title">Live Feed</span>
+        </div>
+        <div class="preview-content">
+          <article class="preview-card">
+            <span class="tag">HypeTrain</span>
+            <h3>Market Anomaly Automation</h3>
+            <p>Realtime Pattern Detection &amp; Triggered Actions</p>
+            <span class="status">Status: <strong>Live</strong></span>
+          </article>
+          <article class="preview-card">
+            <span class="tag">Fitness 3D</span>
+            <h3>Immersive Tracking</h3>
+            <p>Interaktive Visualisierung in Progress</p>
+            <span class="status">Status: <strong>Reboot</strong></span>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="projects">
+      <div class="section-header">
+        <h2>Signature Projekte</h2>
+        <p>Ausgewählte Builds, in denen Tech auf Ästhetik trifft.</p>
+      </div>
+      <div class="cards-grid">
+        <article class="feature-card glass">
+          <div class="icon">📡</div>
+          <h3>Realtime Analytics</h3>
+          <p>
+            Tiefgehende Signalverarbeitung mit automatischen Alerts und
+            Deployment in Hochlast-Umgebungen.
+          </p>
+          <a href="https://github.com/Creeeeger/HypeTrain" class="link" target="_blank" rel="noreferrer">Projekt öffnen →</a>
+        </article>
+        <article class="feature-card glass">
+          <div class="icon">🧠</div>
+          <h3>AI-first Interfaces</h3>
+          <p>
+            Human-in-the-loop Automation mit intuitiven UIs und dynamischem
+            Feedback.
+          </p>
+        </article>
+        <article class="feature-card glass">
+          <div class="icon">🎨</div>
+          <h3>Design Systems</h3>
+          <p>
+            Konsequent angewendete Komponentenbibliotheken, optimiert für
+            schnelle Iteration und Team-Collaboration.
+          </p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section" id="skills">
+      <div class="section-header">
+        <h2>Tech Stack</h2>
+        <p>Tools &amp; Languages, die meinen Flow antreiben.</p>
+      </div>
+      <div class="stack">
+        <div class="stack-column glass">
+          <h4>Expert</h4>
+          <ul>
+            <li>Java &amp; Kotlin</li>
+            <li>Android &amp; Native</li>
+            <li>Linux Tooling</li>
+          </ul>
+        </div>
+        <div class="stack-column glass">
+          <h4>Comfort Zone</h4>
+          <ul>
+            <li>Python &amp; C</li>
+            <li>GitOps &amp; CI/CD</li>
+            <li>Web Frontends</li>
+          </ul>
+        </div>
+        <div class="stack-column glass">
+          <h4>Learning</h4>
+          <ul>
+            <li>C++ Game Dev</li>
+            <li>3D Pipelines</li>
+            <li>Realtime Rendering</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer" id="contact">
+    <div class="footer-card glass">
+      <h2>Ready to build?</h2>
+      <p>
+        Lass uns gemeinsam das nächste Projekt starten. Drop mir eine Nachricht
+        oder connect direkt auf GitHub.
+      </p>
+      <div class="footer-actions">
+        <a class="btn-primary" href="mailto:crecker.dev@gmail.com">Mail senden</a>
+        <a class="btn-ghost" href="https://github.com/Creeeeger" target="_blank" rel="noreferrer">GitHub Profil</a>
+      </div>
+    </div>
+    <p class="credits">© 2024 Crecker – Crafted with Glassmorphism &amp; Passion.</p>
+  </footer>
+
+  <script>
+    const burger = document.querySelector('.burger');
+    const nav = document.querySelector('.nav-links');
+    burger.addEventListener('click', () => {
+      nav.classList.toggle('open');
+      burger.classList.toggle('active');
+    });
+  </script>
+</body>
+</html>
