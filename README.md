@@ -1,6 +1,21 @@
-#  Hey there, I'm Crecker! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d9cdb,100:56ccf2&height=180&section=header&text=Crecker&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="header"/>
+</p>
 
-💻 **Software Enthusiast** | 🚀 **Building Cool Stuff** | 🌱 **Learning Everyday**
+<h1 align="center">Hey there, I'm Crecker! 👋</h1>
+<p align="center">💻 <b>Software Enthusiast</b> | 🚀 <b>Building Cool Stuff</b> | 🌱 <b>Learning Everyday</b></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2400&pause=700&color=2D9CDB&center=true&vCenter=true&width=520&lines=Market+anomaly+automation;Signal+processing+%2B+real-time+systems;Shipping+projects+fast" alt="typing"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Creeeeger">
+    <img src="https://img.shields.io/badge/GitHub-Creeeeger-111111?style=for-the-badge&logo=github" alt="github"/>
+  </a>
+  <a href="https://github.com/Creeeeger/HypeTrain">
+    <img src="https://img.shields.io/badge/HypeTrain-View%20Project-2D9CDB?style=for-the-badge&logo=github" alt="hypetrain"/>
+  </a>
+</p>
 
 ---
 
@@ -8,46 +23,35 @@
 
 [![HypeTrainPublic](https://img.shields.io/badge/GitHub-View%20Project-blue?logo=github&style=for-the-badge)](https://github.com/Creeeeger/HypeTrain)
 
-> **HypeTrain** is a finished platform for full automated market anomaly detection, focusing on high-volatility stocks.  
-> Built with advanced signal processing and real-time automation as well as a lot of other cool stuff
+<table>
+  <tr>
+    <td width="70%">
+      <p><b>HypeTrain</b> is a finished platform for full automated market anomaly detection, focusing on high-volatility stocks.</p>
+      <p>Built with advanced signal processing and real-time automation as well as a lot of other cool stuff.</p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Creeeeger&repo=HypeTrain&theme=dark&hide_border=true" alt="HypeTrain card"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔨 Currently Working On
+## Currently Working On
 > Algebra and Analysis
 
 ---
 
-## 🛠️ Tech Stack
+## GitHub Stats
 
-### 💪 Good With
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🤓 Comfortable With
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🌱 Learning
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Creeeeger&show_icons=true&theme=dark&hide_border=true" alt="stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creeeeger&layout=compact&theme=dark&hide_border=true" alt="top langs"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Creeeeger&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creeeeger&layout=compact&theme=dark&hide_border=true"/>
-</div>
-
----
-
-## 👀 Visitor Count
+## Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Creeeeger&color=blueviolet&style=flat-square)
 
 ---
