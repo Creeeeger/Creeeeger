@@ -14,8 +14,7 @@
 ---
 
 ## 🔨 Currently Working On
-
-~~🏋️‍♂️ Fitness 3D Project~~ *(temporarily shelved)* 😅
+> Algebra and Analysis
 
 ---
 
@@ -48,14 +47,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Creeeeger&theme=onedark&no-frame=true&row=2&column=3)
-
----
-
 ## 👀 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Creeeeger&color=blueviolet&style=flat-square)
 
 ---
-
-*"The moment you think you’re done, you’ll either find more bugs or your boss won’t be happy."*
