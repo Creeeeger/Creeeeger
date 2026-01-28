@@ -7,15 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2400&pause=700&color=2D9CDB&center=true&vCenter=true&width=520&lines=Market+anomaly+detection;Data+processing+%2B+real-time+systems" alt="typing"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Creeeeger">
-    <img src="https://img.shields.io/badge/GitHub-Creeeeger-111111?style=for-the-badge&logo=github" alt="github"/>
-  </a>
-  <a href="https://github.com/Creeeeger/HypeTrain">
-    <img src="https://img.shields.io/badge/HypeTrain-View%20Project-2D9CDB?style=for-the-badge&logo=github" alt="hypetrain"/>
-  </a>
-</p>
-
 ---
 
 ## HypeTrain: Market Anomaly Detection & Automation
